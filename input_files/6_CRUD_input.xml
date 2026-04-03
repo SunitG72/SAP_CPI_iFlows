@@ -1,0 +1,14 @@
+<root>
+    <ACTION>INSERT</ACTION> <!-- READ, INSERT, UPDATE, DELETE -->
+    <TABLE>NEW_PRODUCTS</TABLE>
+    <!-- READ, UPDATE, DELETE -->
+    <IDname>PRODUCTID</IDname> 
+    <IDvalue>104</IDvalue>
+    <!-- READ -->
+    <READ>PRICE, PRODUCTNAME</READ>
+    <!-- INSERT -->
+    <COL>PRODUCTID, PRODUCTNAME, CATEGORY, PRICE</COL>
+    <VAL>104, 'Desk', 'Furniture', 299.99</VAL>
+    <!-- UPDATE -->
+    <SET>PRICE = 121.50</SET>
+</root>

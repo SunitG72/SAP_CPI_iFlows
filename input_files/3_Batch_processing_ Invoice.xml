@@ -1,0 +1,20 @@
+<Invoices>
+    <Invoice>
+        <InvoiceId>INV-001</InvoiceId>
+        <CustomerName>Amit Kumar</CustomerName>
+        <Region>IN</Region>
+        <Amount>25000</Amount>
+    </Invoice>
+    <Invoice>
+        <InvoiceId>INV-002</InvoiceId>
+        <CustomerName>John Smith</CustomerName>
+        <Region>US</Region>
+        <Amount>3500</Amount>
+    </Invoice>
+    <Invoice>
+        <InvoiceId>INV-003</InvoiceId>
+        <CustomerName>Lisa</CustomerName>
+        <Region>EU</Region>
+        <Amount>2000</Amount>
+    </Invoice>
+</Invoices>
